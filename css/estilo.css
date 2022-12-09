@@ -1,0 +1,396 @@
+.a
+{
+	width:100%;
+	height:40px;
+	display: flex;
+	background-color:black;
+	
+
+}
+.aa
+{
+	width:%;
+	height:px;
+	background-color:white;
+}
+.ab
+{
+	width:95%;
+	height:40px;
+	background-color:black;
+	border-left:5%;
+}
+.aba
+{
+	width:100%;
+	height:13px;
+	background-color:black;
+}
+.abb
+{
+	width:100%;
+	height:13px;
+	background-color:black;
+	display:flex;
+	flex-direction:row;
+}
+.abc
+{
+	width:100%;
+	height:13px;
+	background-color:black;
+}
+.menu
+{
+	width:10%;
+	height:13px;
+	background-color:#DCDCDC;
+}
+.menu1
+{
+	width:85%;
+	height:13px;
+	background-color:black;
+}
+.menua1
+{
+	width:2%;
+	height:13px;
+	background-color:#DCDCDC;
+}
+.menu2
+{
+	width:2%;
+	height:13px;
+	background-color:black;
+}
+.menua2
+{
+	width:2%;
+	height:13px;
+	background-color:#DCDCDC;
+}
+.menu2
+{
+	width:2%;
+	height:13px;
+	background-color:black;
+}
+.menua3
+{
+	width:2%;
+	height:13px;
+	background-color:#DCDCDC;
+}
+.menu3
+{
+	width:2%;
+	height:13px;
+	background-color:black;
+}
+.b
+{
+	width:100%;
+	height:150px;
+	background-color:#DCDCDC;
+}
+.c
+{
+	width:100%;
+	height:30px;
+	background-color:white;
+}
+.d
+{
+
+	width:100%;
+	height:200vh;
+	display:flex;
+
+
+}
+.da
+{
+	width:10%;
+	height:180vh;
+	background-color:#DCDCDC;
+}
+.db
+{
+	width:2%;
+	height:200vh;
+	background-color:white;
+}
+.item
+{
+	width:88%;
+}
+.dc
+{
+	width:100%;
+	height:50vh;
+	display: flex;
+	flex-direction:row;
+
+}
+.dca
+{
+	width:50%;
+	height:50vh;
+	background-color:white;
+}
+.dcb
+{
+	width:1%;
+	height:50vh;
+	background-color:white;
+}
+<h4>
+{
+
+}
+.dcc
+{
+	width:50%;
+	height:50vh;
+	background-color:white;
+}
+}
+.dd
+{
+	
+}
+.dda
+{
+	width:100%;
+	height:2vh;
+	background-color:;
+}
+.de
+{
+	width:100%;
+	height:30vh;
+	display:flex;
+}
+.dea
+{
+	width:40%;
+	height:30vh;
+	background-color:#6A5ACD;
+	
+}
+.deb
+{
+	width:1%;
+	height:30vh;
+	background-color:white;
+	
+}
+.dec
+{
+	width:60%;
+	height:30vh;
+	background-color:white;
+}
+.df
+{
+
+	width:100%;
+	height:2vh;
+	background-color:white;
+}
+.dg
+{
+	width:100%;
+	height:30vh;
+	display:flex;
+}
+.dga
+{
+	width:40%;
+	height:30vh;
+	background-color:#6A5ACD;
+	
+}
+.dgb
+{
+	width:1%;
+	height:30vh;
+	background-color:white;
+	
+}
+.dgc
+{
+	width:60%;
+	height:30vh;
+	background-color:white;
+}
+.dh
+{
+
+	width:100%;
+	height:2vh;
+	background-color:white;
+}
+.di
+{
+	width:100%;
+	height:30vh;
+	display:flex;
+}
+.dia
+{
+	width:40%;
+	height:30vh;
+	background-color:#6A5ACD;
+	
+}
+.dib
+{
+	width:1%;
+	height:30vh;
+	background-color:white;
+	
+}
+.dic
+{
+	width:60%;
+	height:30vh;
+	background-color:white;
+}
+.dj
+{
+
+	width:100%;
+	height:2vh;
+	background-color:white;
+}
+.dk
+{
+	width:100%;
+	height:30vh;
+	display:flex;
+}
+.dka
+{
+	width:40%;
+	height:30vh;
+	background-color:#6A5ACD;
+	
+}
+.dkb
+{
+	width:1%;
+	height:30vh;
+	background-color:white;
+	
+}
+.dkc
+{
+	width:60%;
+	height:30vh;
+	background-color:white;
+}
+@media(max-width: 760px){
+
+	margin:auto;
+.menu2 , .menua2 , .menu2 , 
+	.menua3 , .menu3{
+	}
+	.b
+	{
+		width:100%;
+		height:20vh;
+	}
+	.c
+	{
+		width:100%;
+		height:1vh;
+	}
+	.da , .db {
+		width:0%;
+	}
+
+	.item
+	{
+		width:100%;
+	}
+	.dc 
+	{
+		display:block;
+		width:100%;
+		height:50vh;
+	}
+	.dd
+	{
+		width:100%;
+		height:68vh;
+	}
+	.dca 
+	{
+		width:100%;
+		height:65vh;
+
+	}
+	.dcb
+	{
+		width:100%;
+		height:1vh;
+	}
+	.dcc
+	{
+		width: 100%;
+		height:25vh;
+
+
+	}
+	.dda
+	{
+		width:0%;
+		height:0vh;
+	}
+	.dea , .dga , .dia , .dka 
+	{
+		width:30%;
+		height:20vh;
+	}
+	.dec , .dgc , .dic , .dkc
+	{
+		width:70%;
+		height:20vh;
+
+	}
+
+
+	.de , .dg , .di , .dk
+	{
+		width:100%;
+		height:47vh;
+	}
+
+	.item , .dc , , .dcb , .dcc , .dd , .dda ,  {
+		width:100%;
+	}
+	.item 
+	{
+		width:100%;
+		height:150vh;
+	}
+	.deb ,  .dgb , .dib ,  .dkb
+	{
+		width:2%;
+		height:20vh;
+		background-color:white;
+	}
+}
+
+	h4
+	{
+		 font-family: "Times New Roman";
+	
+
+	}
+	h3
+	{
+
+	}
